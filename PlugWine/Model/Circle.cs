@@ -18,7 +18,7 @@ namespace PlugWine.Model
         public Circle(string shapeName, int shapeSurface)
             :base(shapeName,shapeSurface)
         {
-
+            _undefinedItem = shapeName;
         }
 
         public override string GetShapeType()
