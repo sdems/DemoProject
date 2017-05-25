@@ -7,7 +7,7 @@ namespace PlugWine.Model
     class Circle : AbstractShape
     {
         private const string SHAPE_TYPE = "Cercle";
-        private readonly sting _undefinedItem;
+        private readonly string _undefinedItem;
 
         public Circle()
             : base()
