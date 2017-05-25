@@ -76,6 +76,11 @@ namespace PlugWine
             return shapesDescription;
         }
 
+        public void Remove(string shapeDescription)
+        {
+            
+        }
+
         public void Add(string shapeDescription)
         {
             int surface;

@@ -14,7 +14,8 @@ namespace PlugWine
             {
                 new Circle("Nom_1",12),
                 new Circle("Nom_2",15),
-                new Triangle("Nom_3",16)
+                new Triangle("Nom_3",16),
+                new Square("Nom_4",17)
             };
         }
 
