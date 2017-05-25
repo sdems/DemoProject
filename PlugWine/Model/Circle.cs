@@ -7,11 +7,12 @@ namespace PlugWine.Model
     class Circle : AbstractShape
     {
         private const string SHAPE_TYPE = "Cercle";
+        private readonly sting _undefinedItem;
 
         public Circle()
             : base()
         {
-
+            _undefinedItem ="Trust";
         }
 
         public Circle(string shapeName, int shapeSurface)
