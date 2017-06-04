@@ -4,6 +4,7 @@ using PlugWine.Pricer;
 namespace PlugWine.Console
 {
     // Change from remote without conflicts
+	// Change from local without conflicts
     class Program
     {
         private static Service _service;
