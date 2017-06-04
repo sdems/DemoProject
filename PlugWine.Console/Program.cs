@@ -6,6 +6,7 @@ namespace PlugWine.Console
     // Change from remote without conflicts
 	// Change from local without conflicts
 // Change from local with conflicts
+	// Change from remote with conflicts
     class Program
     {
         private static Service _service;
