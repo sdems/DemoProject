@@ -1,4 +1,5 @@
-﻿using System;
+// REMOTE BRANCH_1
+using System;
 using PlugWine.Pricer;
 
 namespace PlugWine.Console
