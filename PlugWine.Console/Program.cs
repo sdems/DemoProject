@@ -1,4 +1,4 @@
-// Changes branch_1 remote
+// Changes master remote
 using System;
 using PlugWine.Pricer;
 
