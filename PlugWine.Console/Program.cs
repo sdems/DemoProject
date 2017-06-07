@@ -1,4 +1,5 @@
-﻿using System;
+// Changes branch_1 remote
+using System;
 using PlugWine.Pricer;
 
 namespace PlugWine.Console
