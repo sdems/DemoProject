@@ -1,4 +1,6 @@
-// Changes master remote
+﻿// Changes master remote
+// Changes master local
+
 using System;
 using PlugWine.Pricer;
 
